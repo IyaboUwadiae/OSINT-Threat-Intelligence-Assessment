@@ -51,7 +51,7 @@ The entire assessment relied exclusively on publicly accessible information.
 
 # Technologies and Tools Used
 
-| Tool | Purpose |
+|Tool | Purpose |
 |------|---------|
 | Kali Linux | Reconnaissance platform |
 | Google Dorking | Public information discovery |
@@ -68,7 +68,7 @@ The entire assessment relied exclusively on publicly accessible information.
 
 ## Target Organization
 
-| Category | Details |
+|Category | Details |
 |----------|---------|
 | Company | Kortnit Hospitality |
 | Sector | Hospitality |
